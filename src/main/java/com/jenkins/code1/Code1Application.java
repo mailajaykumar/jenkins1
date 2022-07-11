@@ -12,7 +12,7 @@ public class Code1Application {
 private static final Logger logger = LoggerFactory.getLogger(Code1Application.class);
 
 	public static void main(String[] args) {
-		logger.info("Applicatiuon started again");
+		logger.info("Applicatiuon started Pipeline again");
 		SpringApplication.run(Code1Application.class, args);
 	}
 
